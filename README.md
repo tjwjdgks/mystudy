@@ -3,6 +3,33 @@
 
 ## spring
 
+### spring jpa
+[querydsl](https://github.com/tjwjdgks/studyquerydsl)
+
+[jpa2](https://github.com/tjwjdgks/springjpa)
+
+[jpa1](https://github.com/tjwjdgks/JpaStudyUse1)
+
+[jpabasic](https://github.com/tjwjdgks/jpabasic)
+
+### spring security
+
+[jwt](https://github.com/tjwjdgks/SpringJWT)
+
+[oauth2.0](https://github.com/tjwjdgks/SpringbootOAuth2.0)
+
+[security](https://github.com/tjwjdgks/springsecuritystudy)
+
+### spring mvc
+
+[mvc](https://github.com/tjwjdgks/studywebmvcspring)
+
+[boot-extend](https://github.com/tjwjdgks/springextendstudy)
+
+### spring msa
+[spring-msa](https://github.com/tjwjdgks/StudyMSA)
 
 ## java
 
+[modern-java](https://github.com/tjwjdgks/studyModernJavaInAction)
+[algorithm](https://github.com/tjwjdgks/algov2)
