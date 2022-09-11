@@ -6,11 +6,11 @@
 ### spring jpa
 [querydsl](https://github.com/tjwjdgks/studyquerydsl)
 
-[jpa2](https://github.com/tjwjdgks/springjpa)
+[jpa enhance performace](https://github.com/tjwjdgks/springjpa)
 
-[jpa1](https://github.com/tjwjdgks/JpaStudyUse1)
+[jpa with spring boot](https://github.com/tjwjdgks/JpaStudyUse1)
 
-[jpabasic](https://github.com/tjwjdgks/jpabasic)
+[jpa basic](https://github.com/tjwjdgks/jpabasic)
 
 ### spring security
 
@@ -22,9 +22,9 @@
 
 ### spring mvc
 
-[mvc](https://github.com/tjwjdgks/studywebmvcspring)
+[spring mvc](https://github.com/tjwjdgks/studywebmvcspring)
 
-[boot-extend](https://github.com/tjwjdgks/springextendstudy)
+[spring mvc with spring boot](https://github.com/tjwjdgks/springextendstudy)
 
 ### spring cloud
 [spring-cloud](https://github.com/tjwjdgks/StudyMSA)
